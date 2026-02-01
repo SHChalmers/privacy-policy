@@ -35,10 +35,3 @@ This app does not collect any data from children or any users. There is no age r
 ## Changes to This Policy
 
 We may update this privacy policy from time to time. Any changes will be reflected in the "Last updated" date above. Continued use of the app after any changes constitutes acceptance of the new policy.
-
-## Contact Us
-
-If you have any questions about this privacy policy, please contact us at:
-
-**Simon Hansson**
-simon.hansson@icloud.com
